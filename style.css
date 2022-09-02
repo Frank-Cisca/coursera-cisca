@@ -1,12 +1,16 @@
 *{
     box-sizing: border-box;
     margin: 0;
-    padding: 0;
+    padding: 10px;
 }
 .outer-shell{
     width: auto;
     padding: auto
     ;
+}
+.menu{
+    padding: 10px ;
+    text-align: center;
 }
 p{
     padding: 25px;
